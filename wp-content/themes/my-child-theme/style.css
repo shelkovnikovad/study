@@ -1,0 +1,9 @@
+/**
+ * Theme Name: My Child Theme
+ * Template: bhari
+ */
+@import url("../bhari/style.css");
+
+body { background: red; }
+a { color: green; }
+
