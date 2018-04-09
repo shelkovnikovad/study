@@ -64,21 +64,7 @@ a {
   text-transform: uppercase;
 }
 .site-info {
-  color: #707070;
-  font-size: 12px;
-  line-height: 1.5;
-  padding: 5% 10%;
-}
-.site-info a {
-  border-bottom: 1px solid transparent;
-  color: #707070;
-}
-.site-info a:hover {
-  border-bottom: 1px solid #333;
-  color: #333;
-}
-.site-info a:focus {
-  color: #333;
+  display: none;
 }
 .page-title,
 .comments-title,
